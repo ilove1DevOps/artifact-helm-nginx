@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-06-08T22:32:53.693587+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 0ab060f47fb9bd8f929294dd28c5e87bb4cdd557ce33c3b6a61bd4e3f397c19c
+    name: nginx-test
+    type: application
+    urls:
+    - nginx-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-06-08T22:32:53.691744+05:30"
